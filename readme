@@ -1,0 +1,11 @@
+Instructions
+1) Unzip
+2) Import on eclipse as an "Existing Eclipse project"
+3) Run targets: clean install verify
+4) Run targets: test
+
+This last step will run all tests on class com.devitos.test.Elevator
+
+The method testChallange is the main test with 4 elevators and 1000 persons.
+
+Thanks.
